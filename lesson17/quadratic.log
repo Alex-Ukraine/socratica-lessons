@@ -1,0 +1,4 @@
+INFO 2020-08-16 17:13:46,966 - quadratic_formula(1, 0, 1)
+DEBUG 2020-08-16 17:13:46,967 - # Compute the discriminant
+DEBUG 2020-08-16 17:13:46,967 - # Compute the tao roots
+ERROR 2020-08-16 17:13:46,967 - error in functionmath domain error
