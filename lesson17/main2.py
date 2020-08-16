@@ -19,7 +19,7 @@ def quadratic_formula(a, b, c):
     disc = b**2 - 4*a*c
 
     # Compute the two roots
-    logger.debug("# Compute the tao roots")
+    logger.debug("# Compute the two roots")
     root1 = (-b + math.sqrt(disc)) / (2*a)
     root2 = (-b - math.sqrt(disc)) / (2*a)
 
